@@ -1,5 +1,5 @@
 import re
-filename = (r"\tovar.txt")
+filename = (r"\text_for_task.txt")
 infile = open(filename, 'r', encoding="utf-8")
 lines = infile.readlines()
 result = ''
